@@ -1,9 +1,9 @@
 class TgBackup < Formula
   desc "Backup your messages from Telegram messenger"
   homepage "https://github.com/AlexPl292/tg_backup"
-  url "https://github.com/AlexPl292/tg_backup/releases/download/v0.1.8/tg_backup-x86_64-apple-darwin.zip"
-  sha256 "2f9f4c45f25ec885f7c275d09633b59985b54d426d218b27a78db3e7becb10bc"
-  version "0.1.8"
+  url "https://github.com/AlexPl292/tg_backup/releases/download/v0.1.9/tg_backup-x86_64-apple-darwin.zip"
+  sha256 "6fff0a92683b1564b43a71abb1eddd54cfd30051f349607306e5cceaa077da98"
+  version "0.1.9"
 
   def install
     bin.install "tg_backup"
